@@ -50,6 +50,6 @@ B.Sc. in Computer Science & Engineering
 United International University · 2019
 Let's Connect
 I’m happy to connect about software engineering, interesting projects, and opportunities to build useful products.
-- 🌐 Portfolio
-- 💼 LinkedIn
+- 🌐 Portfolio - https://azizul-arif.github.io/
+- 💼 LinkedIn - https://www.linkedin.com/in/azizul-arif-494912199
 - ✉️ azizularif94@gmail.com
