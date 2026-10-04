@@ -1,5 +1,6 @@
-Hi, I'm Md Azizul Islam 👋
+Azizul Islam — GitHub Pages portfolio
 Software Engineer | Java, Spring Boot & React
+
 I build secure, scalable web applications—from reliable backend services and APIs to clear, usable interfaces. With 4+ years of professional experience, I have worked on enterprise systems across financial services, agriculture, taxation, and automotive operations.
  
  
